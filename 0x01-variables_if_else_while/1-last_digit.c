@@ -4,6 +4,7 @@
 /**
  *main - Entry point
  *
+ * Description: calcul digit
  * Return: Always 0 (Success)
  */
 int main(void)
