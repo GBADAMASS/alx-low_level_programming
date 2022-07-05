@@ -8,7 +8,7 @@ nclude <stdio.h>
 */
 int main(void)
 {
-		int number;
+		char number;
 
 		for (number = 0; number <= 9; number++)
 		{
