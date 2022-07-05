@@ -1,20 +1,24 @@
 #include <stdio.h>
 
 /**
- *main - 3-print_alphabets.c
+ * main - print alphabet in lower and uppercase
  *
- *Description: task 3-print_alphabets.c
- *Return: this function return 0
- */
+ * Description: tast 3
+ * Return: (0) Succes
+*/
+
 int main(void)
 {
-	char ch;
+  char ch;
 
-	for (ch = 'a'; ch <= 'z'; ch++)
-		putchar(ch);
-	for (ch = 'A'; ch <= 'Z'; ch++)
-		putchar(ch);
-		putchar('\n');
-
-	return (0);
+  for (ch = 'a' ; ch <= 'z' ; ch++)
+    {
+      putchar(ch);
+    }
+  for (ch = 'A' ; ch <= 'Z' ; ch++)
+    {
+      putchar(ch);
+    }
+  putchar('\n');
+  return (0);
 }
