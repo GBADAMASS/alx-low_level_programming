@@ -3,6 +3,7 @@ nclude <stdio.h>
 /**
 * main - Print all possible combinations of single digit numbers
 *
+* Description: number persistence
 * Return: Always 0 (Success)
 */
 int main(void)
