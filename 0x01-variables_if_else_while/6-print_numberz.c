@@ -3,6 +3,7 @@
 /**
 * main - Print all single digit numbers using only putchar
 *
+* Description: 6-print_numberz.c
 * Return: Always 0 (Success)
 */
 int main(void)
