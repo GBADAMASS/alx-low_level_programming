@@ -3,22 +3,22 @@
 /**
  * main - print alphabet in lower and uppercase
  *
- * Description: tast 3
+ * Description: tast 
  * Return: (0) Succes
 */
 
 int main(void)
 {
-  char ch;
+ 	char ch;
 
-  for (ch = 'a' ; ch <= 'z' ; ch++)
-    {
-      putchar(ch);
-    }
-  for (ch = 'A' ; ch <= 'Z' ; ch++)
-    {
-      putchar(ch);
-    }
-  putchar('\n');
-  return (0);
+  	for (ch = 'a' ; ch <= 'z' ; ch++)
+    	{
+      	putchar(ch);
+    	}
+  	for (ch = 'A' ; ch <= 'Z' ; ch++)
+    	{
+      	putchar(ch);
+    	}
+  	putchar('\n');
+  	return (0);
 }
