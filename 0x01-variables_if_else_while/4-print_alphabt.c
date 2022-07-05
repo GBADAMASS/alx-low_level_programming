@@ -3,6 +3,7 @@
 /**
 * main - Print the alphabet in lowercase letters, except for e and q
 *
+* Description: exercice letter
 * Return: Always 0 (Success)
 */
 int main(void)
