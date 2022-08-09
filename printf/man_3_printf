@@ -3,7 +3,7 @@
 .B _printf
 - formatted output conversion
 .SH SYNOPSIS
-.B #include "holberton.h"
+.B #include "main.h"
 .LP
 .BI "int _printf(const char *"format ", ...);
 .SH DESCRIPTION
@@ -62,7 +62,7 @@ No known bugs.
 To print:
 .PP
 .RS 3
-.B #include "holberton.h"
+.B #include "main.h"
 .PP
 _printf("Hello Holberton");
 .B // the output will be 'Hello Holberton'
