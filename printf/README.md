@@ -2,7 +2,7 @@
 
 **_printf** - formatted output conversion
 
-**#include "holberton.h"**
+**#include "main.h"**
 **int _printf(const char** *format* **, ...);**
 
 ## Description
@@ -67,9 +67,9 @@ If an output error is encountered, a negative value is returned.
 
 ## Examples
 
-**#include "holberton.h"**
+**#include "main.h"**
 
-_printf("Hello Holberton"); **// the output will be: Hello Holberton**
+_printf("Hello Alx Holberton"); **// the output will be: Hello Holberton**
 
 _printf("%c", 'H'); // **the output will be: H**
 
@@ -85,4 +85,4 @@ _printf("%        k"); **// the output will be: % k**
 
 ## Author
 
-**_printf()** is written and maintained by **Jorge Salazar** (jormao@gmail.com) and **Santiago Arboleda Londoño** (monoprosito@gmail.com).
+**_printf()** is written and maintained by **GBADAMASSI ABDOU-AKIM** (gbadamassia@gmail.com) and **MOHAMED** (mohamedmire883@gmail.com).

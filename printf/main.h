@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef main_H
+#define main_H
 #include <stdarg.h>
 
 /**
@@ -26,4 +26,4 @@ int _print_int_binary(va_list args);
 void _recursion_int_binary(int a);
 int _validate_char(char _type);
 
-#endif /* _HOLBERTON */
+#endif /* _main */
